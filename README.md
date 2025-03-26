@@ -9,3 +9,8 @@ Repo for testing in ralation to GitHub Foundation training
 * git log
 * git remote -v - Listing origin
 * git add - Adds untracked files to Stage
+
+## Reference Repos
+
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+* [timothywarner](https://github.com/timothywarner)
