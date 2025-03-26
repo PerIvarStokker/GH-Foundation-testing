@@ -11,6 +11,7 @@ Repo for testing in ralation to GitHub Foundation training
 * git remote -v - Listing origin
 * git add - Adds untracked files to Stage
 * git commit -m "message"
+* git merge - merge feature branch to main
 
 ## Reference 
 
