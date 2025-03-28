@@ -5,7 +5,7 @@ Repo for testing in ralation to GitHub Foundation training
 
 * git branch - Listing branches
 * git switch - Switch to other branch
-* git checkout - Does the same as switch, but have more features
+* git checkout - Does the same as switch, but have more features. Can create branch and switch to it in same go.
 * git status - Status of branch
 * git log
 * git remote -v - Listing origin
