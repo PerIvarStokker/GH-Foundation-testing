@@ -12,6 +12,8 @@ Repo for testing in ralation to GitHub Foundation training
 * git add - Adds untracked files to Stage
 * git commit -m "message"
 * git merge - merge feature branch to main
+* git push - send changes to remote
+* git pull - fetch updates from remote
 
 ## Reference 
 
