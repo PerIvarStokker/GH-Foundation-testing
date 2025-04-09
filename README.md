@@ -11,9 +11,12 @@ Repo for testing in ralation to GitHub Foundation training
 * git remote -v - Listing origin
 * git add - Adds untracked files to Stage
 * git commit -m "message"
+* git clone - creates a local copy of a remote repo
 * git merge - merge feature branch to main
 * git push - send changes to remote
-* git pull - fetch updates from remote
+* git pull - fetch updates from remote repo
+
+-[] Investigate further the basic commands for the exam
 
 ## Reference 
 
@@ -25,3 +28,7 @@ Repo for testing in ralation to GitHub Foundation training
 
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 * [timothywarner](https://github.com/timothywarner)
+
+## Markdown
+
+-[] Investigate further the basic syntax for the exam
