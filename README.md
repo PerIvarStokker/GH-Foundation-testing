@@ -32,3 +32,8 @@ Repo for testing in ralation to GitHub Foundation training
 ## Markdown
 
 -[] Investigate further the basic syntax for the exam
+
+## Repo maintenance
+
+.github repo at org-level can be used to impose governance regarding helth-files (like readme.md, LICENCE and .ignore)
+
