@@ -35,5 +35,10 @@ Repo for testing in ralation to GitHub Foundation training
 
 ## Repo maintenance
 
-.github repo at org-level can be used to impose governance regarding helth-files (like readme.md, LICENCE and .ignore)
+### Helth files
+Repo meta-data files: readme.md, LICENSE, contributing.md, code_of_conduct.md and .gitignore.
+Homework: check out microsoft azure documentatin on these files for reference.
+
+.github repo at org-level can be used to impose governance regarding helth-files
+Repo-specific files override org-level defaults.
 
