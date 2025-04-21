@@ -42,3 +42,8 @@ Homework: check out microsoft azure documentatin on these files for reference.
 .github repo at org-level can be used to impose governance regarding helth-files
 Repo-specific files override org-level defaults.
 
+### Maint tasks
+- Manage Issues and pull requests
+- Update project board and milestones
+- Keeping the repo current
+- Archiving or deleting
